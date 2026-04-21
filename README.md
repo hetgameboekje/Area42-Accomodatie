@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Area42 accommodatie</h1>
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/Y73YOvpn0hvFg1XGqHEhPli0wmzNdvXSiLTwI91GDhU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvOTEx/OTk1MTQwL3Bob3RvL2NhbXBpbmctdGVu/dC1pbi1hLWNhbXBp/bmctaW4tYS1mb3Jl/c3QtYnktdGhlLXJp/dmVyLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1WVEtfNFBR/MWZJUm9sOVM0MC0z/dVhqSkV2ZTlId2JL/T2VnaW5ERGJwWVpr/PQ" alt="project-image">
+  <img src="https://cdnp.flypgs.com/files/Ekstrem_Sporlar/camping-kampcilik-nedir.jpg" alt="project-image">
 </p>
 
 <p id="description">
